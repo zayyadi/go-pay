@@ -1,0 +1,9 @@
+.vscode
+test.lua
+log.txt
+logs/
+.log
+*.service
+cmd
+bin
+.service
